@@ -334,8 +334,6 @@ img {
    content: "";
 }
 
-
-
 .item__heading{
    margin-top: 0;
    margin-bottom: 24px;
@@ -360,6 +358,16 @@ img {
    font-size: 16px;
    line-height: 26px;
    color: #333D4B;
+}
+
+.subitem__link{
+   font-family: "Barlow";
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 26px;
+   color: #333D4B;
+   text-decoration: none;
 }
 
 
